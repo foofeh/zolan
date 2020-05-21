@@ -1,51 +1,134 @@
 ---
 layout: post
-title:  Find a connection with the reader
+title:  Multi-Image Pin Cheatsheet
 date:   2018-07-24 15:01:35 +0300
 image:  02.jpg
 tags:   Resources
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
+<center> <h2> More Visual Pin Formats </h2>
+</center>
+<center>Collages and carousels allow you to display multiple images or products on the same pin. Multi-image pins are perfect for more engaging organic posts or promoted pins.  </center>
+<br>
+<center>This cheatsheet will walk you through how to create the following pins: </center>
+<br>
+<center><p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="width: 100%">Collage</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(1).gif" style="width: 100%">Carousel</p> </center>
+<p style="clear: both;">
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
 
-## Are you crazy? I can't swallow that.
+<center><h2>Creating a Collage </h2> </center>
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
+1\. On desktop, in the upper-left corner, click the red "+" button. Select "Create Pin" from the drop-down.
+<br>
+<br>
+2\. Click on the left-hand panel to upload images. Select all of the images you would like in the collage.
+<i>(minimum of 2 images maximum of 5 images)</i>
 
-1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
-2. Fry, we have a crate to deliver.
-3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" width="95%" height="95%"></center>
+<center><i> Above is the screen that pops up. </i></center>
+<br>
+3\. Select "Create A Collage". The preview shown can be adjusted later.
 
-### Why not indeed!
+<center><h3>Collage Pin Editor</h3> </center>
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/editor.PNG" width="65%" height="65%" style="float:left; margin-left:0px; margin-right:20px">
+Pinterest allows you to customize your collage using the Collage Pin Editor.
+Simply press the pencil icon on the left of the image to navigate to the editor.
+<br>
+<br>
+Below is a breakdown of the edits you can make in each panel:
+<br>
+<br>
+<h4>Crop Panel:</h4>
+Change the aspect ratio, adjust images, and replace images in the collage.
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. I don't 'need' to drink. I can quit anytime I want! Soothe us with sweet lies. Bender?! You stole the atom. You don't know how to do any of those.
+#### **Logo Panel (Star Icon):**
+Add your logo to the collage.
 
-* Shinier than yours, meatbag.
-* This is the worst part. The calm before the battle.
-* Ooh, name it after me!
+#### **Text Panel:**
+Add text to the collage. 
+Change the font style, color and add a font background.
+<br>
+<br>
+<center><h3> Final Collage Pin </h3></center>
 
-Say what? Throw her in the brig. Hey, you add a one and two zeros to that or we walk! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Ow, my spirit! Who's brave enough to fly into something we all keep calling a death sphere?
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%"></center>
+<center><i> Above is my final pin - I was satisfied with what Pinterest auto-created and made no changes.</i></center>
+<br>
+Once satisfied with how the collage looks, exit out of the editor.
+<br>
+Add a title, description, hashtags and a URL as normal.
+<br>
+In the upper-right corner, select the board you want your pin to go to and publish.
 
-Hey, you add a one and two zeros to that or we walk! You won't have time for sleeping, soldier, not with all the bed making you'll be doing. It's okay, Bender. I like cooking too. Hey, what kinda party is this? There's no booze and only one hooker.
+Then you're all set!
+<center><h2> Creating a Carousel</h2></center>
 
-![]({{ site.baseurl }}/images/07.jpg)
-*Minimalism*
+1\.  On desktop, in the upper-left corner, click the red "+" button. Select "Create Pin" from the drop-down.
+<br>
+<br>
+2\. Click on the left-hand panel to upload images. Select all of the images you would like in the carousel.
+<i>(minimum of 2 images maximum of 5 images)</i>
+<br>
+<br>
+3\. Select "Create a Carousel" when prompted.
 
-Ummm…to eBay? But I know you in the future. I cleaned your poop. I'm just glad my fat, ugly mama isn't alive to see this day. My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards.
+<center><h3> Carousel Pin Editor </h3> </center>
+Similar to the Collage Pin Editor, Pinterest allows you to rearrange images, add text and your logo, and more.
 
-Your best is an idiot! Fry, you can't just sit here in the dark listening to classical music. And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it!
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif" width="40%" height="40%"></center>
+<center><i>Above is my finished carousel. I added text to each panel & changed the aspect ratio.</i></center>
 
-You, a bobsleder!? That I'd like to see! I'm Santa Claus! There's no part of that sentence I didn't like! Noooooo! I can explain. It's very valuable.
+To open the Carousel Pin Editor, click on the pencil icon on the left of the image.
+<br>
+From there you can use the following panels:
 
-I'm Santa Claus! Is the Space Pope reptilian!? Who's brave enough to fly into something we all keep calling a death sphere? I had more, but you go ahead.
+<h4>Crop Panel:</h4>
+Change the aspect ratio, adjust images, and replace the images in the carousel.
+<br>
+<br>
+<h4>Logo Panel (Star Icon):</h4>
+Add your logo to the carousel.
+<br>
+<br>
+<h4>Text Panel:</h4>
+Add text to the carousel. 
+Change the font style, color and add a font background.
 
-It doesn't look so shiny to me. Kif might! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.
+<center> <h3> Rearrange Tool </h3> <center>
+<style>
+  @media screen and (max-width: 480px) {
+    img {
+         width: 350px;
+    }
+}
+  </style>
+The slide order populates based on the order you selected while uploading the images.
+<br>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/rearrange.PNG" width="40%" height="40%"></center>
+<center><i> Circled in red is the button to rearrange the images in your carousel. </i></center>
+<br>
+To rearrange, click the rearrange icon below the pencil icon on the left of the image.
+<br>
+  <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(2).gif"></center>
+  <br>
+Click on the image you would like to move and move it to a new position.
+<br>
+<br>
+<center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
-Check it out, y'all. Everyone who was invited is here. Anyone who laughs is a communist! You're going to do his laundry? Michelle, I don't regret this, but I both rue and lament it.
-
-Bender, we're trying our best. I daresay that Fry has discovered the smelliest object in the known universe! Oh, you're a dollar naughtier than most. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
-
-You, a bobsleder!? That I'd like to see! No! The kind with looting and maybe starting a few fires! Good news, everyone! There's a report on TV with some very bad news! When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film. But if I did make it, you can bet there would have been more topless women on motorcycles. Roll film!
-
-Eeeee! Now say "nuclear wessels"! Why did you bring us here? Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." That's the ONLY thing about being a slave.
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/URLCarousel.PNG" width="80%" height="80%"></center>
+<center><i> Having this box unchecked allows you to add unique content to each slide.</i></center>
+<br>
+Pinterest defaults to using the same title, description, and URL for each slide.
+<br>
+In this example, I chose to add unique content for every image.
+<br>
+<br>
+<center><h3> Final Carousel Pin </center></h3>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalPin.gif" width="80%" height="80%"></center>
+Above is the final carousel I created.
+<br>
+I added a unique title, description and URL to each slide.
+<br>
+<br>
+<br>
